@@ -10,7 +10,7 @@
 6. Stop the Program
 ## PROGRAM
 
-server.py
+server
 
 ```py
 import socket 
@@ -56,7 +56,7 @@ server
 
 <img width="1094" height="186" alt="image" src="https://github.com/user-attachments/assets/a3d64f80-5939-4839-be82-0bda6d974f4e" />
 
-client.py
+client
 
 <img width="1068" height="208" alt="image" src="https://github.com/user-attachments/assets/2b9b9d61-a9f6-4854-8508-8036b5f915db" />
 
